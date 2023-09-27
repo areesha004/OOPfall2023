@@ -11,5 +11,6 @@ public class Player {
     public String toString(){
         return String.format("palyers name is %s\n score is %d",player,score);
     }
+    //player
 }
 
